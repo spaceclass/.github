@@ -9,9 +9,3 @@
 <p align="center">
   Aulas 100% online e em tempo real, personalizadas para a sua necessidade.
 </p>
-
-<p align="center">
-  <a href="https://opd.spaceclass.com.br">One Page Document ✨</a>
-  ·
-  <a href="https://try.spaceclass.com.br">Conheça a Spaceclass 🫶</a>
-</p>
